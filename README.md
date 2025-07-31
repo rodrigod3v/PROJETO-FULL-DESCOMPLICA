@@ -1,6 +1,4 @@
-# Descomplica
-
-Projetos de exemplo para as aulas da faculdade Descomplica
+# PROJETO-FULL-DESCOMPLICA
 
 ## Como funciona este repo
 
